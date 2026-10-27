@@ -9,7 +9,7 @@ Run from source:
 
 ```bash
 pip install PySide6
-python src/wechat_transfer.py
+python src/KEnne_chat_UI.py
 ```
 
 Keys: Enter sends, Shift+Enter or Ctrl+Enter adds a new line. Drag the top edge of the input box to resize it.
