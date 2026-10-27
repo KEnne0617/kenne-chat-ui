@@ -1,16 +1,21 @@
 # kenne-chat-ui
 This is a desktop chat UI project. It looks simple, but it has lots of details and feels complete. Built with Python and PySide6. It's just one file. Want something simple, stylish, and convenient? Try it.
 
+## Environment Setup
+
+Press Win + R, type "cmd", and press Enter. Then type the following in the black window: 
+
+```bash
+ pip install PySide6
+```
+
+Or
+
+Give KEnne_chat_UI.py to the AI and command it to make me able to successfully run this file with just a double-click.
+
 ## Download
 
 Packaged Windows build, no Python required: **[KEnne.exe](https://github.com/KEnne0617/kenne-chat-ui/releases/latest/download/KEnne.exe)**
-
-Run from source:
-
-```bash
-pip install PySide6
-python src/KEnne_chat_UI.py
-```
 
 ## Interface
 
