@@ -19,6 +19,8 @@ Packaged Windows build, no Python required: **[KEnne.exe](https://github.com/KEn
 
 ## Interface
 
+![KEnne chat UI](assets/screenshot.png)
+
 Color: black, white, and gray.
 
 Page border: subtle rounded corners.
